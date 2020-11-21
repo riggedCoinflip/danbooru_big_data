@@ -1,0 +1,23 @@
+Generate a PostgreSQL 12 database.
+Date/time: 2020-11-21 17:29
+Database created.
+Add tables
+Add table "tag_category"
+Table "tag_category" added.
+Added/modified comment for object "tag_category_id".
+Add table "user"
+Table "user" added.
+Add table "image"
+Table "image" added.
+Added/modified comment for object "rating".
+Add table "tags"
+Table "tags" added.
+Add table "tags_image"
+Table "tags_image" added.
+Add foreign key constraints
+Constraint "image.uploader_image" added.
+Constraint "image.image_image" added.
+Constraint "image.approver_image" added.
+Constraint "tags.tag_category_tags" added.
+Constraint "tags_image.tags_tags_image" added.
+Constraint "tags_image.image_tags_image" added.
