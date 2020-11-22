@@ -1,0 +1,8 @@
+Has the number of daily uploads increased over time? How do seasons and corona affect it?
+Which tags are correlated to each other? You could imagine that tags like 1girl and solo often appear together. You could also imagine that tags like 1girl and 2girls don't share a set.
+Are there events that caused certain tags to spike in popularity? Potentially the release of 50 Shades increased the appearance BDSM-related tags. Bowsette spiked when it was popular, slowly decreasing over time.
+Are certain tags more/less liked than the average, making them loved/controversial?
+Potentially there are 2 tags that nearly share the same images - if we spot these tags, we could join these tags into 1.
+Potentially, spotting pics with controversial tags/tags that often result in banned pics could allow optimizing the approval of pictures.
+If an uploader often has the same approver, these accounts could both be by him. Looking at the dates of upload/approval (sleep cycle) could give further details.
+this one is a bit hard to plot but you can check for popular tags in 7-day or month windows, every month or so there's one big popular tag that pops up or resurfaces. last one was standing_split
