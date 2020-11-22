@@ -150,3 +150,10 @@ dmypy.json
 .idea/modules.xml
 .idea/vcs.xml
 
+# exclude secrets
+src/password.txt
+
+#exclude test files
+src/tmp.py
+src/temp.py
+src/test.py
