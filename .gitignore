@@ -149,6 +149,7 @@ dmypy.json
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+.idea/sonarlint
 
 # exclude secrets
 src/password.txt
